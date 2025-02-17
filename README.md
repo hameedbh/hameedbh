@@ -2,7 +2,7 @@
 <p>Remote Sensing and GIS specialist with a strong interest in geospatial data analysis and AI applications. Passionate about continuous learning and contributing to innovative projects. Currently enhancing my skills in German and planning to further my studies in Germany. 🚀</p>
 
 
-<img src="https://github.com/user-attachments/assets/3839f96e-6489-4389-8887-479ad4e941ea" align="right" height="300">
+<img src="https://github.com/user-attachments/assets/3839f96e-6489-4389-8887-479ad4e941ea" align="right" height="250">
 
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
