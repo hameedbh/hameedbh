@@ -1,7 +1,9 @@
 <h1>Hi 👋, I'm Hameed</h1>
 <p>Remote Sensing and GIS specialist with a strong interest in geospatial data analysis and AI applications. Passionate about continuous learning and contributing to innovative projects. Currently enhancing my skills in German and planning to further my studies in Germany. 🚀</p>
 
-![Image]align="right" height="300" (https://github.com/user-attachments/assets/3839f96e-6489-4389-8887-479ad4e941ea)
+![Image] (https://github.com/user-attachments/assets/3839f96e-6489-4389-8887-479ad4e941ea)
+<img src="https://github.com/user-attachments/assets/3839f96e-6489-4389-8887-479ad4e941ea" align="right" height="300">
+
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
 <a target="_blank" href="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" style="display: inline-block;"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="42" height="42" /></a></p>
