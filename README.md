@@ -4,7 +4,7 @@
 </a>
 </p>
 </p>
-<img src="https://github.com/user-attachments/assets/3839f96e-6489-4389-8887-479ad4e941ea" align="right" height="150">
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2Yza2szNG41emd3MG1majU5dXBzaXBxeWJhdWJldXY3MXFyMXZ3dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26CaL8cNprN6sz5WU/giphy.gif" align="right" height="150">
 </a>
 </p>
 </p>
