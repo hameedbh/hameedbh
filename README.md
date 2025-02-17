@@ -1,7 +1,7 @@
 <h1>Hi 👋, I'm Hameed</h1>
 <p>Remote Sensing and GIS specialist with a strong interest in geospatial data analysis and AI applications. Passionate about continuous learning and contributing to innovative projects. Currently enhancing my skills in German and planning to further my studies in Germany. 🚀</p>
 
-
+![GIF Description](![GIF Description](https://your-link-to-gif.com/image.gif))
 
 
 <h2>🚀 Languages and Tools I Use</h2>
