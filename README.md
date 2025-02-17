@@ -14,7 +14,6 @@
 </a>
 </p>
 </p>
-name: GitHub Snake Game
 on:
   # Schedule the workflow to run daily at midnight UTC
   schedule:
