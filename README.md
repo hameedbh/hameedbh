@@ -1,10 +1,10 @@
 <h1>Hi 👋, I'm Hameed</h1>
 <p>Remote Sensing and GIS specialist with a strong interest in geospatial data analysis and AI applications. Passionate about continuous learning and contributing to innovative projects. Currently enhancing my skills in German and planning to further my studies in Germany. 🚀</p>
-###
+
 
 <img align="right" height="300" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2Yza2szNG41emd3MG1majU5dXBzaXBxeWJhdWJldXY3MXFyMXZ3dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26CaL8cNprN6sz5WU/giphy.gif"  />
 
-###
+
 
 
 <h2>🚀 Languages and Tools I Use</h2>
